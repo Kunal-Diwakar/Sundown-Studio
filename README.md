@@ -16,3 +16,4 @@ This project replicates the stunning UI of the Sundown Studio website using HTML
 • Smooth Scrolling: Enhanced with Lenis for a smooth scrolling experience. 🖱️ <br/>
 • Award-Winning Design: Based on the celebrated design of the Sundown Studio website. 🏆 <br/>
 
+![1](https://github.com/user-attachments/assets/d7dba595-ed3f-4ccb-8b28-5cb14de28cec)
