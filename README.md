@@ -7,7 +7,7 @@ This project replicates the stunning UI of the Sundown Studio website using HTML
 # Technologies Used 💻 
 1. HTML: For structuring the web pages. 📄 <br/>
 2. CSS: For styling and layout enhancements. 🎨 <br/>
-3. GSAP : For smooth and engaging animations. ✨ <br/>
+3. GSAP: For smooth and engaging animations. ✨ <br/>
 4. Lenis : For buttery smooth scrolling effects. 🚀 <br/>
 
 # Features 🌟 
